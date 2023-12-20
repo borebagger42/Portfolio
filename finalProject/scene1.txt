@@ -1,0 +1,9 @@
+image 800 600
+camera_position 0.0 0.0 5.0
+camera_target 0.0 0.0 0.0
+camera_up 0.0 1.0 0.0
+
+sphere 0.0 0.0 0.0 0.5 1.0 0.0 0.0
+name body
+parent null
+transform 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
