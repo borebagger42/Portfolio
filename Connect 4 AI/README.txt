@@ -1,0 +1,1 @@
+This is a simple text based connect 4 game with an AI that makes use of a minimax algorithm to determine it's best move. Feel free to run it on any python host application!
